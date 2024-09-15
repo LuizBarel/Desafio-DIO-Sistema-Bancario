@@ -1,0 +1,10 @@
+no aplicativo, o usuário deve conseguir:
+depositar, sacar e ver extrato
+
+nessa versão não é preciso analisar a conta bancária e agencia, pois se trabalha com 1 usuário
+
+depositar: valores positivos, o depósito deve ser armazenado em uma variável e exibido na funcionalidade "ver extrato"
+
+sacar: possibilitar 3 saques diários, com no máximo 500 reais por saque. Caso não tenha saldo, informar o usuário, todos os saques devem ser armazenados em uma variável e ser exibido na funcionalidade "ver extrato"
+
+ver extrato: lista todos os depósitos e saques da conta, no fim, mostra o saldo atual da conta, os valores devem seguir o padrão "R$ xxx.xx"
